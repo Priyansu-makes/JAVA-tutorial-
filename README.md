@@ -1,4 +1,5 @@
 📚 Learning Path
+
 I started my journey with the CodeWithHarry Java Course to build a strong foundation in Java programming.
 After completing core Java concepts, I am moving to Data Structures & Algorithms using Java to improve problem-solving skills and prepare for coding interviews.
 
